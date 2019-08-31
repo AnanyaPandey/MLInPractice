@@ -1,1 +1,7 @@
-I just created this file 
+#I just created this file 
+#/usr/bin/python
+'''
+DOCTYPE : STRING
+Developer : Ananya Pandey
+This file is to test the functionaity of editors
+'''
